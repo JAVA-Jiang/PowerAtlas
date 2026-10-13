@@ -1,0 +1,17 @@
+# ECBench construction and evaluation
+numpy
+pandas
+pulp
+gurobipy>=11.0          # oracle solutions and the evaluator's feasibility programs
+pyarrow
+
+# agent training and inference (versions we ran on A800/4090)
+torch==2.6.0            # CUDA 12.4
+transformers==4.51.3
+vllm==0.8.4
+flash-attn==2.7.4.post1
+accelerate
+datasets
+
+# figures
+matplotlib

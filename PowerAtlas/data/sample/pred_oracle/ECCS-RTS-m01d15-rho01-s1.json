@@ -1,0 +1,259 @@
+{
+ "instance_id": "ECCS-RTS-m01d15-rho01-s1",
+ "task_placement": [
+  {
+   "task_id": 0,
+   "start": 9,
+   "dc": 4,
+   "shifted": false,
+   "migrated": false
+  },
+  {
+   "task_id": 1,
+   "start": 9,
+   "dc": 1,
+   "shifted": true,
+   "migrated": false
+  },
+  {
+   "task_id": 2,
+   "start": 20,
+   "dc": 2,
+   "shifted": true,
+   "migrated": false
+  },
+  {
+   "task_id": 3,
+   "start": 2,
+   "dc": 1,
+   "shifted": true,
+   "migrated": false
+  },
+  {
+   "task_id": 4,
+   "start": 2,
+   "dc": 4,
+   "shifted": true,
+   "migrated": false
+  },
+  {
+   "task_id": 5,
+   "start": 9,
+   "dc": 3,
+   "shifted": true,
+   "migrated": false
+  },
+  {
+   "task_id": 6,
+   "start": 8,
+   "dc": 1,
+   "shifted": true,
+   "migrated": false
+  },
+  {
+   "task_id": 7,
+   "start": 10,
+   "dc": 4,
+   "shifted": false,
+   "migrated": false
+  },
+  {
+   "task_id": 8,
+   "start": 19,
+   "dc": 4,
+   "shifted": true,
+   "migrated": false
+  },
+  {
+   "task_id": 9,
+   "start": 9,
+   "dc": 1,
+   "shifted": true,
+   "migrated": false
+  },
+  {
+   "task_id": 10,
+   "start": 9,
+   "dc": 3,
+   "shifted": true,
+   "migrated": true
+  },
+  {
+   "task_id": 11,
+   "start": 22,
+   "dc": 1,
+   "shifted": true,
+   "migrated": false
+  },
+  {
+   "task_id": 12,
+   "start": 20,
+   "dc": 4,
+   "shifted": true,
+   "migrated": false
+  },
+  {
+   "task_id": 13,
+   "dropped": true
+  },
+  {
+   "task_id": 14,
+   "start": 21,
+   "dc": 4,
+   "shifted": true,
+   "migrated": false
+  },
+  {
+   "task_id": 15,
+   "start": 21,
+   "dc": 4,
+   "shifted": true,
+   "migrated": false
+  },
+  {
+   "task_id": 16,
+   "start": 9,
+   "dc": 1,
+   "shifted": true,
+   "migrated": false
+  },
+  {
+   "task_id": 17,
+   "start": 15,
+   "dc": 3,
+   "shifted": false,
+   "migrated": false
+  },
+  {
+   "task_id": 18,
+   "start": 12,
+   "dc": 1,
+   "shifted": false,
+   "migrated": false
+  },
+  {
+   "task_id": 19,
+   "start": 9,
+   "dc": 4,
+   "shifted": false,
+   "migrated": false
+  },
+  {
+   "task_id": 20,
+   "start": 8,
+   "dc": 4,
+   "shifted": true,
+   "migrated": false
+  },
+  {
+   "task_id": 21,
+   "start": 9,
+   "dc": 4,
+   "shifted": false,
+   "migrated": false
+  },
+  {
+   "task_id": 22,
+   "start": 13,
+   "dc": 1,
+   "shifted": false,
+   "migrated": false
+  },
+  {
+   "task_id": 23,
+   "start": 20,
+   "dc": 3,
+   "shifted": true,
+   "migrated": true
+  },
+  {
+   "task_id": 24,
+   "start": 14,
+   "dc": 3,
+   "shifted": false,
+   "migrated": false
+  },
+  {
+   "task_id": 25,
+   "start": 3,
+   "dc": 3,
+   "shifted": false,
+   "migrated": false
+  },
+  {
+   "task_id": 26,
+   "start": 22,
+   "dc": 2,
+   "shifted": true,
+   "migrated": false
+  },
+  {
+   "task_id": 27,
+   "start": 19,
+   "dc": 1,
+   "shifted": true,
+   "migrated": false
+  },
+  {
+   "task_id": 28,
+   "start": 23,
+   "dc": 2,
+   "shifted": true,
+   "migrated": false
+  },
+  {
+   "task_id": 29,
+   "start": 8,
+   "dc": 4,
+   "shifted": true,
+   "migrated": false
+  },
+  {
+   "task_id": 30,
+   "start": 12,
+   "dc": 3,
+   "shifted": true,
+   "migrated": false
+  },
+  {
+   "task_id": 31,
+   "start": 21,
+   "dc": 4,
+   "shifted": true,
+   "migrated": false
+  },
+  {
+   "task_id": 32,
+   "start": 8,
+   "dc": 2,
+   "shifted": true,
+   "migrated": false
+  },
+  {
+   "task_id": 33,
+   "start": 21,
+   "dc": 3,
+   "shifted": true,
+   "migrated": false
+  },
+  {
+   "task_id": 34,
+   "start": 21,
+   "dc": 2,
+   "shifted": true,
+   "migrated": false
+  },
+  {
+   "task_id": 35,
+   "start": 14,
+   "dc": 4,
+   "shifted": false,
+   "migrated": false
+  },
+  {
+   "task_id": 36,
+   "dropped": true
+  }
+ ],
+ "power_text": "POWER:\n123_STEAM_3: off, off, off, off, 0, 100, 100, 0, 0, 0, 0, 0, 0, 0, 0, 0, 100, 100, 100, 100, 100, 100, 100, 100\n218_CC_1: off, off, off, off, off, off, off, off, off, off, off, off, off, off, off, off, off, off, off, off, off, off, off, off\n118_CC_1: off, off, off, off, off, off, off, off, off, off, off, off, off, off, off, off, 42.4, 100, 100, 100, 100, 100, 100, 87.6\n321_CC_1: off, off, off, off, off, off, off, off, off, off, off, off, off, off, off, off, 42.4, 100, 100, 100, 100, 100, 100, 0\n223_STEAM_3: 47.6, 100, 0, 11, 100, 100, 100, 49.4, 0, 0, 0, 0, 0, 0, 37.9, 100, 100, 100, 100, 100, 100, 100, 100, 100\n221_CC_1: 0, 0, 0, 0, 0, 98.7, 90.5, 0, 0, 0, 0, 0, 0, 0, 0, 0, 4.5, 100, 100, 100, 100, 42.4, off, off"
+}
